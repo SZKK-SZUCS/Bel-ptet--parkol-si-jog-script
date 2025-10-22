@@ -24,6 +24,18 @@ Fontos: az alábbi oszlop nevek kellenek:
 
 Ha több jog vagy rendszám van akkor külön oszlopba legyen és fűzz mögé egy számot, pl.: jog2, rendszam2
 
+jogot beléptetőből másold ki, hogy pontos egyezés legyen
+
+Általában használt jogok:
+
+-Parkolás vendégeknek (Campus) </br>
+-Parkolás P5 </br>
+-Parkolás alkalmazottaknak </br>
+-Parkolás AK1 (0-24) </br>
+-Parkolás AK4 </br>
+-Parkolás P1 </br>
+
+
 ### 2. Futtasd a read-excel.js-t
 
 line6: Meg kell adnod az excel elérési útvonalát (Relative path)
