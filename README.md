@@ -40,6 +40,11 @@ line8: Meg kell adnod az új fájl nevét (főleg fontos ha több excelen futtat
 python teszt.py
 ```
 
+## Known bug fixes
+
+Ha a kártya keresése közben fagysz ki:
+line124: növeld a sleep-et, mert a lassú neted miatt nem fetcheli időben a kártyákat
+
 ## Author
 
 👤 **Szabó Máté - szabma3**
