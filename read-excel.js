@@ -3,8 +3,9 @@ import fs from "fs";
 import path from "path";
 
 // TODO: add meg az excel path-et a relative path kimásolásával
-const excelPath = path.resolve("UniFamulusParkolás.xlsx");
-const outputPath = path.resolve("./parkolas.json");
+const excelPath = path.resolve("");
+// TODO: Add meg mi legyen az új fájl neve
+const outputPath = path.resolve("./ide írd a nevet.json");
 
 try {
   const fileBuffer = fs.readFileSync(excelPath);
