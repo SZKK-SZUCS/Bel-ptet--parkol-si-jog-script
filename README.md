@@ -9,6 +9,7 @@
 
 ```sh
 pip install selenium
+npm install
 
 git clone https://github.com/yourname/belepteto-script.git
 cd belepteto-script
